@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package marioslick;
+package sidescrollerslick;
 
 import org.newdawn.slick.Image;
 import org.newdawn.slick.geom.Rectangle;

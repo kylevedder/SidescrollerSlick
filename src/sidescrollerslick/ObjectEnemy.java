@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package marioslick;
+package sidescrollerslick;
 
 import org.newdawn.slick.Animation;
 import org.newdawn.slick.SpriteSheet;
